@@ -13,6 +13,4 @@ Este proyecto es un clon de la landing oficial de Tesla desarrollado en React co
 
 ¡Siéntete libre de explorar el código y contribuir al proyecto!
 
---- 
-
-Recuerda adaptar este README según las necesidades específicas de tu proyecto. ¡Espero que sea útil!
+---
