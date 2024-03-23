@@ -1,8 +1,18 @@
-# React + Vite
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Clon de la Landing oficial de Tesla
 
-Currently, two official plugins are available:
+Este proyecto es un clon de la landing oficial de Tesla desarrollado en React con Vite y estilizado con Tailwind CSS. Además, cuenta con un diseño responsivo para adaptarse a dispositivos móviles y tabletas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Características:
+
+- Desarrollado en React con Vite para una rápida carga y desarrollo eficiente.
+- Utiliza Tailwind CSS para estilos altamente personalizables y mantenibles.
+- Diseño completamente responsivo para una experiencia óptima en cualquier dispositivo.
+- Replica fielmente la apariencia y la funcionalidad de la landing oficial de Tesla.
+
+¡Siéntete libre de explorar el código y contribuir al proyecto!
+
+--- 
+
+Recuerda adaptar este README según las necesidades específicas de tu proyecto. ¡Espero que sea útil!
